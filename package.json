@@ -1,5 +1,6 @@
 {
-  "name": "client",
+  "name": "uniword",
+  "description": "Chrome extension for knowing any text meaning with definition in the web with simple integration",
   "private": true,
   "version": "0.0.0",
   "type": "module",
