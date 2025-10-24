@@ -1,5 +1,7 @@
 # Let's Install **Vocabo**
 
+ [_Easy Intallation Guide_](https://github.com/crosbow/vocabo)
+
 Vocabo is a web text **selected** definition provider chrome extension which helps you to know any word meaning/definition.
 
 **Note:** the extension is in testing, so install the project here if you're a developer and follow the instruction below.
