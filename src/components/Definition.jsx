@@ -28,7 +28,7 @@ const Definition = ({ selected }) => {
 
       try {
         const response = await fetch(
-          `http://localhost:8000/api/v1/definition/${selected}`
+          `${import.meta.env.VITE_BACKEND_URL}/api/v1/definition/${selected}`
         );
         const data = await response.json();
 
