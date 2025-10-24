@@ -1,8 +1,8 @@
-# Let's Install **Vocabo**
+# Let's Install **Uniword**
 
-[_Easy Installation Guide_](https://github.com/crosbow/vocabo)
+[_Easy Installation Guide_](https://github.com/crosbow/Uniword)
 
-Vocabo is a Chrome extension that provides definitions for selected text, helping you easily understand the meaning of any word.
+Uniword is a Chrome extension that provides definitions for selected text, helping you easily understand the meaning of any word.
 
 **Note:** The extension is currently in testing. If you're a developer, install the project locally by following the instructions below.
 
@@ -11,7 +11,7 @@ Vocabo is a Chrome extension that provides definitions for selected text, helpin
 1. Clone the GitHub repository:
 
    ```bash
-   git clone git@github.com:crosbow/vocabo.git
+   git clone git@github.com:crosbow/Uniword.git
    ```
 
 2. Install dependencies:
@@ -28,7 +28,7 @@ Vocabo is a Chrome extension that provides definitions for selected text, helpin
 
    After the build is complete, you’ll notice a **dist** folder.
 
-You have successfully built **Vocabo** 👏
+You have successfully built **Uniword** 👏
 
 Now, let’s set it up as a Chrome extension:
 
@@ -44,4 +44,4 @@ Now, let’s set it up as a Chrome extension:
 
 4. Select the **dist** folder that you just built.
 
-🎉 Hurray! You have successfully added **Vocabo** to your Chrome browser.
+🎉 Hurray! You have successfully added **Uniword** to your Chrome browser.
