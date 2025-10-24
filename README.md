@@ -1,47 +1,47 @@
 # Let's Install **Vocabo**
 
- [_Easy Intallation Guide_](https://github.com/crosbow/vocabo)
+[_Easy Installation Guide_](https://github.com/crosbow/vocabo)
 
-Vocabo is a web text **selected** definition provider chrome extension which helps you to know any word meaning/definition.
+Vocabo is a Chrome extension that provides definitions for selected text, helping you easily understand the meaning of any word.
 
-**Note:** the extension is in testing, so install the project here if you're a developer and follow the instruction below.
+**Note:** The extension is currently in testing. If you're a developer, install the project locally by following the instructions below.
 
-## Installation guide
+## Installation Guide
 
-1. Clone the github repository:
+1. Clone the GitHub repository:
 
-```bash
-git clone git@github.com:crosbow/vocabo.git
-```
+   ```bash
+   git clone git@github.com:crosbow/vocabo.git
+   ```
 
-2. Install dependencies
+2. Install dependencies:
 
-```bash
-npm install
-```
+   ```bash
+   npm install
+   ```
 
-3. Run the build command
+3. Run the build command:
 
-```bash
-npm run build
-```
+   ```bash
+   npm run build
+   ```
 
-you'll notice a dist folder
+   After the build is complete, you’ll notice a **dist** folder.
 
-Here you go, you are successfully installed **Vocabo** 👏
+You have successfully built **Vocabo** 👏
 
-Lest's set up as chrome extantion
+Now, let’s set it up as a Chrome extension:
 
-1. Go chrome and paste this URL:
+1. Open Chrome and paste this URL in the address bar:
 
-```bash
-chrome://extensions
-```
+   ```bash
+   chrome://extensions
+   ```
 
-2. Enable developer mode(if already not disabled) from the right side of the page.
+2. Enable **Developer mode** (if it’s not already enabled) from the top-right corner of the page.
 
-3. Click **load unpached** button
+3. Click the **Load unpacked** button.
 
-4. Select **dist** folder that you previously got.
+4. Select the **dist** folder that you just built.
 
-Hurray 🎊 You have successfully added **Vocabo** on your chrome.
+🎉 Hurray! You have successfully added **Vocabo** to your Chrome browser.
